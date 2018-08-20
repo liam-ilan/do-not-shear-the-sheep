@@ -1,0 +1,17 @@
+.menuStyle{
+  font-weight: bold;
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  background-color: #D57E60;
+  color: #99573E;
+  border-radius: 10px;
+  border: 3px solid #99573E;
+  text-align: center;
+  font-size: 20px;
+  line-height: 45px;
+  user-select: none;
+}
+.title{
+  font-family: "Comic Sans MS", cursive, sans-serif;
+  text-align: center;
+  font-size: 30px;
+}
